@@ -1,0 +1,60 @@
+
+body {
+ min-height: 100%;
+
+ background: no-repeat center center fixed;
+ -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+ background-image:
+    linear-gradient(
+      rgba(250, 250, 250, 0.2),
+      rgba(250, 250, 250, 0.4)
+    ),
+    url(https://ak3.picdn.net/shutterstock/videos/3372491/thumb/1.jpg?i10c);
+
+
+}
+.navbar_text {
+	font-size: 27px;
+}
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	color: #30466b !important;
+
+}
+.myjumbo.jumbotron {
+	background-color: rgba(255,255,255,.65);
+	margin-left: 6%;
+	margin-right: 6%;
+	margin-top: 50px;
+	border-radius: 2%;
+}
+.headerParagraph{
+	font-size: 30px !important;
+	color: #30466b !important;
+	margin: 2%;
+	text-align: center;
+}
+.playerimg img {
+	float: left;
+	width:100%;
+	
+}
+.playerinfo h2 {
+	color: #30466b
+}
+.playerinfo p {
+	font-size: 23px;
+	color: #30466b
+	
+}
+ .profile {
+	background-color: rgba(255,255,255,.65) !important;
+	border-radius: 2%;
+}
+#h2home {
+	text-align: center;
+}
