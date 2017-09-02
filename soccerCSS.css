@@ -58,3 +58,14 @@ h1 {
 #h2home {
 	text-align: center;
 }
+.news span {
+	font-size: 40px;
+	border-left: 8px solid #957ecc;
+}
+.news {
+	margin-left: 22%;
+	margin-right:22%;
+	padding: 3%;
+	background-color: rgba(255,255,255,.70) !important;
+	border: 3px solid #75aaef;
+}
